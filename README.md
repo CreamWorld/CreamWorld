@@ -1,5 +1,5 @@
 ### Welcome to my World!
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CreamWorld&theme=tokyonight&column=7)
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CreamWorld&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
 ![streak](https://streak-stats.demolab.com?user=CreamWorld&theme=tokyonight)
